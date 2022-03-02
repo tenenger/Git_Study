@@ -1,1 +1,2 @@
-Reset 추가, Reset 수정
+Reset 추가
+A
