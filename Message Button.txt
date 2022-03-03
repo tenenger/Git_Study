@@ -1,3 +1,4 @@
 Reset 추가
 A
 AddNumbers
+revert로 되돌리기
